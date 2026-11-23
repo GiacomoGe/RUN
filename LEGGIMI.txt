@@ -1,0 +1,13 @@
+COME INSTALLARE L'APP SULLA HOME DELL'IPHONE (100% OFFLINE)
+=============================================================
+
+OPZIONE A (CONSIGLIATA - App vera a schermo intero con icona sulla Home):
+1. Estrai questa cartella sul PC o Mac.
+2. Pubblicala gratuitamente su GitHub Pages oppure trascina la cartella su https://app.netlify.com/drop (ci vogliono 10 secondi).
+3. Apri il link generato con Safari sul tuo iPhone.
+4. Tocca il tasto Condividi (quadrato con freccia in su) -> "Aggiungi alla schermata Home".
+5. Fatto! L'app si apre a schermo intero, salva progressi e note in locale e grazie al Service Worker funziona anche in modalità aereo / offline.
+
+OPZIONE B (100% locale senza pubblicarla online):
+Usa il file singolo "calendario_10km_iphone.html" salvandolo su iCloud Drive e aprendolo con un'app che supporta HTML/JS locali (es. "Documents by Readdle" o "Koder" da App Store).
+Nota: l'app File nativa di iOS blocca JavaScript in anteprima, per questo serve Safari via link (Opzione A) oppure un'app come Documents (Opzione B).
